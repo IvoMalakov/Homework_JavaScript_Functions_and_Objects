@@ -1,0 +1,32 @@
+body {
+    padding-top: 10px;
+    font-family: Arial;
+}
+
+h1 {
+    font-size: 22px;
+    display: block;
+    text-transform: uppercase;
+}
+
+#wrapper {
+    width: 400px;
+    margin: auto;
+}
+
+#wrapper > textarea > #html {
+    width: 550px;
+    height: 300px;
+}
+
+#wrapper > textarea > #result {
+    width: 200px;
+    height: 20px;
+}
+
+#wrapper > button {
+    background-color: aquamarine;
+    color: red;
+    border-radius: 5px;
+    margin: 20px auto;
+}
